@@ -1,5 +1,9 @@
 "use strict";
 
+import dotenv from "dotenv";
+
+dotenv.config();
+
 import chalk from "chalk";
 import express from "express";
 import { uniqueNamesGenerator, starWars } from "unique-names-generator";

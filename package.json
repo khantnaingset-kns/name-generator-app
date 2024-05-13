@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "unique-names-generator": "^4.7.1"
   }
